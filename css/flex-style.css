@@ -54,6 +54,10 @@ img {
     height: auto;
     align-items: center;
 }
+main {
+    justify-content: space-between;
+    align-items: center;
+}
 
 
 	
